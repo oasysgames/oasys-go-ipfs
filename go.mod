@@ -68,7 +68,7 @@ require (
 	github.com/libp2p/go-doh-resolver v0.3.1
 	github.com/libp2p/go-libp2p v0.16.0
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
-	github.com/libp2p/go-libp2p-core v0.11.0
+	github.com/libp2p/go-libp2p-core v0.15.1
 	github.com/libp2p/go-libp2p-discovery v0.6.0
 	github.com/libp2p/go-libp2p-http v0.2.1
 	github.com/libp2p/go-libp2p-kad-dht v0.15.0
@@ -94,7 +94,7 @@ require (
 	github.com/multiformats/go-multiaddr v0.4.1
 	github.com/multiformats/go-multiaddr-dns v0.3.1
 	github.com/multiformats/go-multibase v0.0.3
-	github.com/multiformats/go-multicodec v0.3.0
+	github.com/multiformats/go-multicodec v0.4.1
 	github.com/multiformats/go-multihash v0.1.0
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
